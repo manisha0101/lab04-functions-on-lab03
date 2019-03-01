@@ -1,0 +1,73 @@
+
+body { 
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: left; 
+    
+  }
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: #e7a94c;
+    padding-top: 0.3in;
+    text-align: center;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0.1in;
+    color: #dbf024;
+    
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding: 0.1in;
+    color: #000000;
+    
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #000000;
+    padding: 0.1in;
+    text-align: left;
+}
+
+#bio {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: #dbf110;
+    padding: 0.1in;
+    text-align: center;
+  }
+
+ ul {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        padding: 0.1in;
+        color: #000000;
+        
+ }
+ 
+ ol {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding: 0.1in;
+    color: #000000;   
+} 
+
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: #000000;
+    text-align: center;
+  }
